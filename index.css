@@ -47,14 +47,16 @@ h2 {
     color: #333;
 }
 
-/* Estilos para el formulario cuando se enfoca */
+
 input[type="text"]:focus,
 input[type="email"]:focus,
 textarea:focus {
     border: 1px solid #e2e9e2;
 }
 
-/* Estilos para el botón de envío cuando se pasa el ratón por encima */
 input[type="submit"]:hover {
     background-color: #fdfffd;
+}
+table {
+    margin:auto;
 }
